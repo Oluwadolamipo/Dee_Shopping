@@ -20,7 +20,7 @@ abstract class MainActivity : AppCompatActivity(), ItemClickListener {
         ShoppingList.add("Shoes")
         ShoppingList.add("Dresses")
         ShoppingList.add("Makeup")
-        ShoppingList.add("Goat")
+        ShoppingList.add("Electronics")
 
         // set up the RecyclerView
         val recyclerView: RecyclerView = findViewById(R.id.rvAnimals)
